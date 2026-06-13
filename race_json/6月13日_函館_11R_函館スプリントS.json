@@ -1,0 +1,100 @@
+{
+  "RaceName": "函館スプリントS",
+  "RaceDistance": 1200,
+  "RaceBaba": "芝",
+  "RaceLocation": "函館",
+  "Horses": [
+    {
+      "Name": "モズナナスター",
+      "Kinryo": "55.0",
+      "Number": 1,
+      "Odds": "23.9",
+      "Jockey": "鮫島駿"
+    },
+    {
+      "Name": "ダノンマッキンリー",
+      "Kinryo": "58.0",
+      "Number": 2,
+      "Odds": "29.7",
+      "Jockey": "池添"
+    },
+    {
+      "Name": "レイピア",
+      "Kinryo": "57.0",
+      "Number": 3,
+      "Odds": "4.0",
+      "Jockey": "横山武"
+    },
+    {
+      "Name": "カルプスペルシュ",
+      "Kinryo": "55.0",
+      "Number": 4,
+      "Odds": "4.9",
+      "Jockey": "丹内"
+    },
+    {
+      "Name": "ジョーメッドヴィン",
+      "Kinryo": "57.0",
+      "Number": 5,
+      "Odds": "41.5",
+      "Jockey": "横山琉"
+    },
+    {
+      "Name": "ウイングレイテスト",
+      "Kinryo": "58.0",
+      "Number": 6,
+      "Odds": "26.3",
+      "Jockey": "松岡"
+    },
+    {
+      "Name": "ピューロマジック",
+      "Kinryo": "56.0",
+      "Number": 7,
+      "Odds": "5.9",
+      "Jockey": "北村友"
+    },
+    {
+      "Name": "ポッドベイダー",
+      "Kinryo": "57.0",
+      "Number": 8,
+      "Odds": "18.3",
+      "Jockey": "荻野極"
+    },
+    {
+      "Name": "クラスペディア",
+      "Kinryo": "57.0",
+      "Number": 9,
+      "Odds": "15.3",
+      "Jockey": "小崎"
+    },
+    {
+      "Name": "エーティーマクフィ",
+      "Kinryo": "58.0",
+      "Number": 10,
+      "Odds": "7.0",
+      "Jockey": "富田"
+    },
+    {
+      "Name": "インビンシブルパパ",
+      "Kinryo": "58.0",
+      "Number": 11,
+      "Odds": "11.0",
+      "Jockey": "佐々木"
+    },
+    {
+      "Name": "ルシード",
+      "Kinryo": "57.0",
+      "Number": 12,
+      "Odds": "7.4",
+      "Jockey": "横山和"
+    },
+    {
+      "Name": "シュタールヴィント",
+      "Kinryo": "57.0",
+      "Number": 13,
+      "Odds": "79.6",
+      "Jockey": "岩田康"
+    }
+  ],
+  "RaceDate": "6月13日(土)"
+}
