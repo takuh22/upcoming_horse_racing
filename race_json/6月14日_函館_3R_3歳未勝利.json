@@ -1,0 +1,93 @@
+{
+  "RaceName": "3歳未勝利",
+  "RaceDistance": 1000,
+  "RaceBaba": "ダ",
+  "RaceLocation": "函館",
+  "Horses": [
+    {
+      "Name": "ビタミンドロップ",
+      "Kinryo": "55.0",
+      "Number": 1,
+      "Odds": "11.3",
+      "Jockey": "舟山"
+    },
+    {
+      "Name": "ホウオウバトラー",
+      "Kinryo": "56.0",
+      "Number": 2,
+      "Odds": "45.1",
+      "Jockey": "長浜"
+    },
+    {
+      "Name": "タマモキャロル",
+      "Kinryo": "55.0",
+      "Number": 3,
+      "Odds": "63.0",
+      "Jockey": "小崎"
+    },
+    {
+      "Name": "ヒューザー",
+      "Kinryo": "55.0",
+      "Number": 4,
+      "Odds": "24.9",
+      "Jockey": "古川奈"
+    },
+    {
+      "Name": "ライトニングロッド",
+      "Kinryo": "55.0",
+      "Number": 5,
+      "Odds": "20.2",
+      "Jockey": "横山琉"
+    },
+    {
+      "Name": "スマートイデアル",
+      "Kinryo": "55.0",
+      "Number": 6,
+      "Odds": "53.8",
+      "Jockey": "小沢"
+    },
+    {
+      "Name": "ルクソンライト",
+      "Kinryo": "54.0",
+      "Number": 7,
+      "Odds": "4.7",
+      "Jockey": "小林美"
+    },
+    {
+      "Name": "セラサイト",
+      "Kinryo": "51.0",
+      "Number": 8,
+      "Odds": "6.2",
+      "Jockey": "河原田"
+    },
+    {
+      "Name": "エコロセレナ",
+      "Kinryo": "55.0",
+      "Number": 9,
+      "Odds": "2.5",
+      "Jockey": "斎藤"
+    },
+    {
+      "Name": "クインズスズラン",
+      "Kinryo": "55.0",
+      "Number": 10,
+      "Odds": "9.2",
+      "Jockey": "横山和"
+    },
+    {
+      "Name": "エトワールフィーユ",
+      "Kinryo": "53.0",
+      "Number": 11,
+      "Odds": "7.4",
+      "Jockey": "今村"
+    },
+    {
+      "Name": "サチノブーケ",
+      "Kinryo": "53.0",
+      "Number": 12,
+      "Odds": "85.6",
+      "Jockey": "鷲頭"
+    }
+  ],
+  "RaceDate": "6月14日(日)"
+}

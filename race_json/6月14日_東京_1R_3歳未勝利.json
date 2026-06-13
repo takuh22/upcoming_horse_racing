@@ -1,0 +1,114 @@
+{
+  "RaceName": "3歳未勝利",
+  "RaceDistance": 1300,
+  "RaceBaba": "ダ",
+  "RaceLocation": "東京",
+  "Horses": [
+    {
+      "Name": "スウェーバック",
+      "Kinryo": "55.0",
+      "Number": 1,
+      "Odds": "31.2",
+      "Jockey": "野中"
+    },
+    {
+      "Name": "イナンナ",
+      "Kinryo": "52.0",
+      "Number": 2,
+      "Odds": "36.4",
+      "Jockey": "上里"
+    },
+    {
+      "Name": "スピニンググローブ",
+      "Kinryo": "57.0",
+      "Number": 3,
+      "Odds": "12.8",
+      "Jockey": "木幡巧"
+    },
+    {
+      "Name": "リオンアンサー",
+      "Kinryo": "55.0",
+      "Number": 4,
+      "Odds": "155.5",
+      "Jockey": "嶋田"
+    },
+    {
+      "Name": "ヴィスクレス",
+      "Kinryo": "57.0",
+      "Number": 5,
+      "Odds": "4.6",
+      "Jockey": "原"
+    },
+    {
+      "Name": "ブライティアビーム",
+      "Kinryo": "52.0",
+      "Number": 6,
+      "Odds": "116.0",
+      "Jockey": "土田"
+    },
+    {
+      "Name": "レゲンデ",
+      "Kinryo": "55.0",
+      "Number": 7,
+      "Odds": "6.9",
+      "Jockey": "荻野極"
+    },
+    {
+      "Name": "テンカラットレター",
+      "Kinryo": "57.0",
+      "Number": 8,
+      "Odds": "21.0",
+      "Jockey": "木幡初"
+    },
+    {
+      "Name": "ノアソノマ",
+      "Kinryo": "57.0",
+      "Number": 9,
+      "Odds": "50.3",
+      "Jockey": "武藤"
+    },
+    {
+      "Name": "クアラトレンガヌ",
+      "Kinryo": "57.0",
+      "Number": 10,
+      "Odds": "43.5",
+      "Jockey": "石川"
+    },
+    {
+      "Name": "スティールヴォーグ",
+      "Kinryo": "57.0",
+      "Number": 11,
+      "Odds": "3.9",
+      "Jockey": "三浦"
+    },
+    {
+      "Name": "ブラックゲイル",
+      "Kinryo": "54.0",
+      "Number": 12,
+      "Odds": "131.6",
+      "Jockey": "水沼"
+    },
+    {
+      "Name": "テルケンレンタッチ",
+      "Kinryo": "57.0",
+      "Number": 13,
+      "Odds": "32.5",
+      "Jockey": "菊沢"
+    },
+    {
+      "Name": "ヌビアン",
+      "Kinryo": "54.0",
+      "Number": 14,
+      "Odds": "30.1",
+      "Jockey": "石田"
+    },
+    {
+      "Name": "ツクバヴァンガード",
+      "Kinryo": "54.0",
+      "Number": 15,
+      "Odds": "3.0",
+      "Jockey": "佐藤"
+    }
+  ],
+  "RaceDate": "6月14日(日)"
+}

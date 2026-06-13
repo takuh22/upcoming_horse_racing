@@ -1,0 +1,65 @@
+{
+  "RaceName": "3歳以上1勝クラス",
+  "RaceDistance": 2000,
+  "RaceBaba": "芝",
+  "RaceLocation": "東京",
+  "Horses": [
+    {
+      "Name": "ウインドラート",
+      "Kinryo": "55.0",
+      "Number": 1,
+      "Odds": "10.0",
+      "Jockey": "石神道"
+    },
+    {
+      "Name": "コスモアチーブ",
+      "Kinryo": "58.0",
+      "Number": 2,
+      "Odds": "20.0",
+      "Jockey": "石川"
+    },
+    {
+      "Name": "シーギリヤロック",
+      "Kinryo": "55.0",
+      "Number": 3,
+      "Odds": "7.2",
+      "Jockey": "ディー"
+    },
+    {
+      "Name": "ショウグンマサムネ",
+      "Kinryo": "55.0",
+      "Number": 4,
+      "Odds": "5.0",
+      "Jockey": "荻野極"
+    },
+    {
+      "Name": "キョウエイグッド",
+      "Kinryo": "58.0",
+      "Number": 5,
+      "Odds": "59.0",
+      "Jockey": "木幡巧"
+    },
+    {
+      "Name": "ユーディキウム",
+      "Kinryo": "56.0",
+      "Number": 6,
+      "Odds": "12.3",
+      "Jockey": "菊沢"
+    },
+    {
+      "Name": "シンドリームシン",
+      "Kinryo": "58.0",
+      "Number": 7,
+      "Odds": "12.2",
+      "Jockey": "津村"
+    },
+    {
+      "Name": "ジャスティンシカゴ",
+      "Kinryo": "55.0",
+      "Number": 8,
+      "Odds": "1.7",
+      "Jockey": "原"
+    }
+  ],
+  "RaceDate": "6月14日(日)"
+}

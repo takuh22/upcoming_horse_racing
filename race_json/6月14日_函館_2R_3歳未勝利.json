@@ -1,0 +1,86 @@
+{
+  "RaceName": "3歳未勝利",
+  "RaceDistance": 1700,
+  "RaceBaba": "ダ",
+  "RaceLocation": "函館",
+  "Horses": [
+    {
+      "Name": "ライヴマルガリータ",
+      "Kinryo": "55.0",
+      "Number": 1,
+      "Odds": "58.9",
+      "Jockey": "富田"
+    },
+    {
+      "Name": "ホワイトラバーズ",
+      "Kinryo": "55.0",
+      "Number": 2,
+      "Odds": "65.7",
+      "Jockey": "国分恭"
+    },
+    {
+      "Name": "マルシュボヌール",
+      "Kinryo": "53.0",
+      "Number": 3,
+      "Odds": "9.1",
+      "Jockey": "舟山"
+    },
+    {
+      "Name": "ダンツアラーム",
+      "Kinryo": "52.0",
+      "Number": 4,
+      "Odds": "40.7",
+      "Jockey": "遠藤"
+    },
+    {
+      "Name": "サトノフレイ",
+      "Kinryo": "54.0",
+      "Number": 5,
+      "Odds": "4.3",
+      "Jockey": "小林美"
+    },
+    {
+      "Name": "キタノオンザバス",
+      "Kinryo": "55.0",
+      "Number": 6,
+      "Odds": "90.0",
+      "Jockey": "原田和"
+    },
+    {
+      "Name": "テリコス",
+      "Kinryo": "57.0",
+      "Number": 7,
+      "Odds": "3.5",
+      "Jockey": "岩田康"
+    },
+    {
+      "Name": "ペガサスウィンド",
+      "Kinryo": "55.0",
+      "Number": 8,
+      "Odds": "11.8",
+      "Jockey": "鮫島駿"
+    },
+    {
+      "Name": "ユマハム",
+      "Kinryo": "57.0",
+      "Number": 9,
+      "Odds": "5.1",
+      "Jockey": "横山和"
+    },
+    {
+      "Name": "ストロングボーイ",
+      "Kinryo": "57.0",
+      "Number": 10,
+      "Odds": "8.6",
+      "Jockey": "荻野琢"
+    },
+    {
+      "Name": "セスティーナ",
+      "Kinryo": "57.0",
+      "Number": 11,
+      "Odds": "6.1",
+      "Jockey": "佐々木"
+    }
+  ],
+  "RaceDate": "6月14日(日)"
+}

@@ -1,0 +1,93 @@
+{
+  "RaceName": "3歳以上2勝クラス",
+  "RaceDistance": 1600,
+  "RaceBaba": "ダ",
+  "RaceLocation": "東京",
+  "Horses": [
+    {
+      "Name": "ドナカルナバル",
+      "Kinryo": "56.0",
+      "Number": 1,
+      "Odds": "27.9",
+      "Jockey": "江田照"
+    },
+    {
+      "Name": "シーニックビュー",
+      "Kinryo": "58.0",
+      "Number": 2,
+      "Odds": "12.9",
+      "Jockey": "菊沢"
+    },
+    {
+      "Name": "セブンマイスター",
+      "Kinryo": "58.0",
+      "Number": 3,
+      "Odds": "6.0",
+      "Jockey": "ディー"
+    },
+    {
+      "Name": "ヒロノゴウカイ",
+      "Kinryo": "58.0",
+      "Number": 4,
+      "Odds": "94.4",
+      "Jockey": "菅原隆"
+    },
+    {
+      "Name": "スマートスピア",
+      "Kinryo": "58.0",
+      "Number": 5,
+      "Odds": "6.1",
+      "Jockey": "津村"
+    },
+    {
+      "Name": "クロドラバール",
+      "Kinryo": "58.0",
+      "Number": 6,
+      "Odds": "31.4",
+      "Jockey": "ゴンサルベ"
+    },
+    {
+      "Name": "マキシマムビスタ",
+      "Kinryo": "56.0",
+      "Number": 7,
+      "Odds": "25.0",
+      "Jockey": "杉原"
+    },
+    {
+      "Name": "ケーヴァラ",
+      "Kinryo": "58.0",
+      "Number": 8,
+      "Odds": "28.8",
+      "Jockey": "丸山"
+    },
+    {
+      "Name": "マンダリンボレロ",
+      "Kinryo": "58.0",
+      "Number": 9,
+      "Odds": "20.1",
+      "Jockey": "松岡"
+    },
+    {
+      "Name": "ミダース",
+      "Kinryo": "58.0",
+      "Number": 10,
+      "Odds": "5.0",
+      "Jockey": "石川"
+    },
+    {
+      "Name": "ロンギングフォユー",
+      "Kinryo": "53.0",
+      "Number": 11,
+      "Odds": "2.9",
+      "Jockey": "荻野極"
+    },
+    {
+      "Name": "サンカルミア",
+      "Kinryo": "58.0",
+      "Number": 12,
+      "Odds": "9.7",
+      "Jockey": "三浦"
+    }
+  ],
+  "RaceDate": "6月14日(日)"
+}

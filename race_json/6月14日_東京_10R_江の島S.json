@@ -1,0 +1,107 @@
+{
+  "RaceName": "江の島S",
+  "RaceDistance": 2400,
+  "RaceBaba": "芝",
+  "RaceLocation": "東京",
+  "Horses": [
+    {
+      "Name": "ベトルス",
+      "Kinryo": "58.0",
+      "Number": 1,
+      "Odds": "2.8",
+      "Jockey": "ディー"
+    },
+    {
+      "Name": "レッドテリオス",
+      "Kinryo": "58.0",
+      "Number": 2,
+      "Odds": "13.2",
+      "Jockey": "荻野極"
+    },
+    {
+      "Name": "シャドウメテオ",
+      "Kinryo": "56.0",
+      "Number": 3,
+      "Odds": "17.1",
+      "Jockey": "大野"
+    },
+    {
+      "Name": "ダノンホイットニー",
+      "Kinryo": "56.0",
+      "Number": 4,
+      "Odds": "51.6",
+      "Jockey": "丸田"
+    },
+    {
+      "Name": "スピードリッチ",
+      "Kinryo": "58.0",
+      "Number": 5,
+      "Odds": "7.4",
+      "Jockey": "ゴンサルベ"
+    },
+    {
+      "Name": "バレンタインガール",
+      "Kinryo": "56.0",
+      "Number": 6,
+      "Odds": "7.9",
+      "Jockey": "北村宏"
+    },
+    {
+      "Name": "エコロレイズ",
+      "Kinryo": "58.0",
+      "Number": 7,
+      "Odds": "32.5",
+      "Jockey": "菊沢"
+    },
+    {
+      "Name": "ジョイボーイ",
+      "Kinryo": "58.0",
+      "Number": 8,
+      "Odds": "12.8",
+      "Jockey": "石橋脩"
+    },
+    {
+      "Name": "ウインルーティン",
+      "Kinryo": "58.0",
+      "Number": 9,
+      "Odds": "27.9",
+      "Jockey": "松岡"
+    },
+    {
+      "Name": "ベンサレム",
+      "Kinryo": "58.0",
+      "Number": 10,
+      "Odds": "27.7",
+      "Jockey": "石川"
+    },
+    {
+      "Name": "キングノジョー",
+      "Kinryo": "58.0",
+      "Number": 11,
+      "Odds": "15.9",
+      "Jockey": "三浦"
+    },
+    {
+      "Name": "オストラヴァ",
+      "Kinryo": "58.0",
+      "Number": 12,
+      "Odds": "5.4",
+      "Jockey": "津村"
+    },
+    {
+      "Name": "ログラール",
+      "Kinryo": "58.0",
+      "Number": 13,
+      "Odds": "24.9",
+      "Jockey": "丸山"
+    },
+    {
+      "Name": "キントリヒ",
+      "Kinryo": "58.0",
+      "Number": 14,
+      "Odds": "58.6",
+      "Jockey": "原"
+    }
+  ],
+  "RaceDate": "6月14日(日)"
+}

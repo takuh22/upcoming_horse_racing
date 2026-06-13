@@ -1,0 +1,107 @@
+{
+  "RaceName": "花のみちS",
+  "RaceDistance": 1600,
+  "RaceBaba": "芝",
+  "RaceLocation": "阪神",
+  "Horses": [
+    {
+      "Name": "サンタンカ",
+      "Kinryo": "58.0",
+      "Number": 1,
+      "Odds": "25.1",
+      "Jockey": "松山"
+    },
+    {
+      "Name": "マイエレメント",
+      "Kinryo": "56.0",
+      "Number": 2,
+      "Odds": "16.4",
+      "Jockey": "吉村"
+    },
+    {
+      "Name": "テラメリタ",
+      "Kinryo": "56.0",
+      "Number": 3,
+      "Odds": "11.2",
+      "Jockey": "川田"
+    },
+    {
+      "Name": "チャンネルトンネル",
+      "Kinryo": "58.0",
+      "Number": 4,
+      "Odds": "11.6",
+      "Jockey": "武豊"
+    },
+    {
+      "Name": "エポックヴィーナス",
+      "Kinryo": "56.0",
+      "Number": 5,
+      "Odds": "6.0",
+      "Jockey": "田山"
+    },
+    {
+      "Name": "ウォーターガーベラ",
+      "Kinryo": "56.0",
+      "Number": 6,
+      "Odds": "18.0",
+      "Jockey": "高杉"
+    },
+    {
+      "Name": "ケーブパール",
+      "Kinryo": "56.0",
+      "Number": 7,
+      "Odds": "11.7",
+      "Jockey": "岩田望"
+    },
+    {
+      "Name": "ミナデオロ",
+      "Kinryo": "58.0",
+      "Number": 8,
+      "Odds": "10.4",
+      "Jockey": "ルメール"
+    },
+    {
+      "Name": "アイルシャイン",
+      "Kinryo": "58.0",
+      "Number": 9,
+      "Odds": "36.2",
+      "Jockey": "松若"
+    },
+    {
+      "Name": "アウフヘーベン",
+      "Kinryo": "56.0",
+      "Number": 10,
+      "Odds": "3.4",
+      "Jockey": "レーン"
+    },
+    {
+      "Name": "コルレオニス",
+      "Kinryo": "58.0",
+      "Number": 11,
+      "Odds": "8.9",
+      "Jockey": "戸崎圭"
+    },
+    {
+      "Name": "セブンマジシャン",
+      "Kinryo": "58.0",
+      "Number": 12,
+      "Odds": "12.9",
+      "Jockey": "西村淳"
+    },
+    {
+      "Name": "ワイドアラジン",
+      "Kinryo": "58.0",
+      "Number": 13,
+      "Odds": "94.2",
+      "Jockey": "横山武"
+    },
+    {
+      "Name": "ゼンダンハヤブサ",
+      "Kinryo": "58.0",
+      "Number": 14,
+      "Odds": "17.8",
+      "Jockey": "酒井"
+    }
+  ],
+  "RaceDate": "6月14日(日)"
+}

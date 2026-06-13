@@ -1,0 +1,93 @@
+{
+  "RaceName": "3歳以上1勝クラス",
+  "RaceDistance": 1000,
+  "RaceBaba": "ダ",
+  "RaceLocation": "函館",
+  "Horses": [
+    {
+      "Name": "フレンズプラス",
+      "Kinryo": "53.0",
+      "Number": 1,
+      "Odds": "21.0",
+      "Jockey": "荻野琢"
+    },
+    {
+      "Name": "ムーンブランシュ",
+      "Kinryo": "53.0",
+      "Number": 2,
+      "Odds": "22.7",
+      "Jockey": "富田"
+    },
+    {
+      "Name": "キャリーグレイス",
+      "Kinryo": "54.0",
+      "Number": 3,
+      "Odds": "3.6",
+      "Jockey": "今村"
+    },
+    {
+      "Name": "ミサビスケッツ",
+      "Kinryo": "52.0",
+      "Number": 4,
+      "Odds": "42.4",
+      "Jockey": "河原田"
+    },
+    {
+      "Name": "パーティーガール",
+      "Kinryo": "53.0",
+      "Number": 5,
+      "Odds": "91.5",
+      "Jockey": "遠藤"
+    },
+    {
+      "Name": "オオゾラヒバリ",
+      "Kinryo": "53.0",
+      "Number": 6,
+      "Odds": "24.4",
+      "Jockey": "大久保"
+    },
+    {
+      "Name": "スパークルジョイ",
+      "Kinryo": "54.0",
+      "Number": 7,
+      "Odds": "27.6",
+      "Jockey": "舟山"
+    },
+    {
+      "Name": "ゴールドヴィーナス",
+      "Kinryo": "53.0",
+      "Number": 8,
+      "Odds": "6.0",
+      "Jockey": "横山和"
+    },
+    {
+      "Name": "テーオーナタリー",
+      "Kinryo": "53.0",
+      "Number": 9,
+      "Odds": "2.8",
+      "Jockey": "鮫島駿"
+    },
+    {
+      "Name": "レストプレドゥモア",
+      "Kinryo": "56.0",
+      "Number": 10,
+      "Odds": "9.2",
+      "Jockey": "小沢"
+    },
+    {
+      "Name": "アルヘンティニータ",
+      "Kinryo": "53.0",
+      "Number": 11,
+      "Odds": "18.0",
+      "Jockey": "小林美"
+    },
+    {
+      "Name": "ヒットミー",
+      "Kinryo": "55.0",
+      "Number": 12,
+      "Odds": "10.4",
+      "Jockey": "長浜"
+    }
+  ],
+  "RaceDate": "6月14日(日)"
+}

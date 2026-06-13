@@ -1,0 +1,79 @@
+{
+  "RaceName": "八雲特別",
+  "RaceDistance": 1800,
+  "RaceBaba": "芝",
+  "RaceLocation": "函館",
+  "Horses": [
+    {
+      "Name": "サウンドサンライズ",
+      "Kinryo": "56.0",
+      "Number": 1,
+      "Odds": "29.0",
+      "Jockey": "佐々木"
+    },
+    {
+      "Name": "ゼアズノープレイス",
+      "Kinryo": "58.0",
+      "Number": 2,
+      "Odds": "21.8",
+      "Jockey": "的場"
+    },
+    {
+      "Name": "ハミルトン",
+      "Kinryo": "58.0",
+      "Number": 3,
+      "Odds": "11.7",
+      "Jockey": "鮫島駿"
+    },
+    {
+      "Name": "コスモナエマ",
+      "Kinryo": "53.0",
+      "Number": 4,
+      "Odds": "6.0",
+      "Jockey": "長浜"
+    },
+    {
+      "Name": "モンローウォーク",
+      "Kinryo": "53.0",
+      "Number": 5,
+      "Odds": "1.9",
+      "Jockey": "横山和"
+    },
+    {
+      "Name": "ナムラヒナギク",
+      "Kinryo": "53.0",
+      "Number": 6,
+      "Odds": "12.5",
+      "Jockey": "小沢"
+    },
+    {
+      "Name": "ポタリング",
+      "Kinryo": "58.0",
+      "Number": 7,
+      "Odds": "19.9",
+      "Jockey": "遠藤"
+    },
+    {
+      "Name": "ゴガツノアマノガワ",
+      "Kinryo": "58.0",
+      "Number": 8,
+      "Odds": "14.1",
+      "Jockey": "小林美"
+    },
+    {
+      "Name": "キセキノエンジェル",
+      "Kinryo": "56.0",
+      "Number": 9,
+      "Odds": "38.3",
+      "Jockey": "河原田"
+    },
+    {
+      "Name": "ドッグウッド",
+      "Kinryo": "55.0",
+      "Number": 10,
+      "Odds": "5.8",
+      "Jockey": "斎藤"
+    }
+  ],
+  "RaceDate": "6月14日(日)"
+}

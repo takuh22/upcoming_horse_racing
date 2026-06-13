@@ -1,0 +1,93 @@
+{
+  "RaceName": "津軽海峡特別(ハンデ戦)",
+  "RaceDistance": 1700,
+  "RaceBaba": "ダ",
+  "RaceLocation": "函館",
+  "Horses": [
+    {
+      "Name": "リッチブラック",
+      "Kinryo": "53.0",
+      "Number": 1,
+      "Odds": "37.0",
+      "Jockey": "川又"
+    },
+    {
+      "Name": "フェスタリア",
+      "Kinryo": "55.0",
+      "Number": 2,
+      "Odds": "7.7",
+      "Jockey": "今村"
+    },
+    {
+      "Name": "チギリ",
+      "Kinryo": "52.0",
+      "Number": 3,
+      "Odds": "7.7",
+      "Jockey": "長浜"
+    },
+    {
+      "Name": "ディアウス",
+      "Kinryo": "57.0",
+      "Number": 4,
+      "Odds": "4.3",
+      "Jockey": "吉田隼"
+    },
+    {
+      "Name": "エアニゲラ",
+      "Kinryo": "53.0",
+      "Number": 5,
+      "Odds": "11.9",
+      "Jockey": "舟山"
+    },
+    {
+      "Name": "アールプロスト",
+      "Kinryo": "55.0",
+      "Number": 6,
+      "Odds": "8.4",
+      "Jockey": "小沢"
+    },
+    {
+      "Name": "タイヨウフレア",
+      "Kinryo": "52.0",
+      "Number": 7,
+      "Odds": "38.6",
+      "Jockey": "横山琉"
+    },
+    {
+      "Name": "メイショウタイピン",
+      "Kinryo": "55.0",
+      "Number": 8,
+      "Odds": "7.3",
+      "Jockey": "池添"
+    },
+    {
+      "Name": "レイザリオ",
+      "Kinryo": "55.0",
+      "Number": 9,
+      "Odds": "20.0",
+      "Jockey": "岩田康"
+    },
+    {
+      "Name": "ラマンシュ",
+      "Kinryo": "56.0",
+      "Number": 10,
+      "Odds": "7.8",
+      "Jockey": "斎藤"
+    },
+    {
+      "Name": "マーウォルス",
+      "Kinryo": "56.0",
+      "Number": 11,
+      "Odds": "12.1",
+      "Jockey": "佐々木"
+    },
+    {
+      "Name": "ジュンラトゥール",
+      "Kinryo": "56.0",
+      "Number": 12,
+      "Odds": "9.2",
+      "Jockey": "富田"
+    }
+  ],
+  "RaceDate": "6月14日(日)"
+}
