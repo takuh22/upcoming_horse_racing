@@ -1,0 +1,121 @@
+{
+  "RaceName": "府中牝馬S(ハンデ戦)",
+  "RaceDistance": 1800,
+  "RaceBaba": "芝",
+  "RaceLocation": "東京",
+  "Horses": [
+    {
+      "Name": "マカナ",
+      "Kinryo": "50.0",
+      "Number": 1,
+      "Odds": "18.8",
+      "Jockey": "松岡"
+    },
+    {
+      "Name": "ウイントワイライト",
+      "Kinryo": "53.0",
+      "Number": 2,
+      "Odds": "16.0",
+      "Jockey": "横山典"
+    },
+    {
+      "Name": "ブラウンラチェット",
+      "Kinryo": "54.0",
+      "Number": 3,
+      "Odds": "74.8",
+      "Jockey": "丸山"
+    },
+    {
+      "Name": "ミアネーロ",
+      "Kinryo": "55.0",
+      "Number": 4,
+      "Odds": "45.4",
+      "Jockey": "大野"
+    },
+    {
+      "Name": "エストゥペンダ",
+      "Kinryo": "54.0",
+      "Number": 5,
+      "Odds": "9.1",
+      "Jockey": "荻野極"
+    },
+    {
+      "Name": "ヴァルキリーバース",
+      "Kinryo": "55.5",
+      "Number": 6,
+      "Odds": "3.2",
+      "Jockey": "ルメール"
+    },
+    {
+      "Name": "セキトバイースト",
+      "Kinryo": "56.0",
+      "Number": 7,
+      "Odds": "23.1",
+      "Jockey": "浜中"
+    },
+    {
+      "Name": "ニシノティアモ",
+      "Kinryo": "56.0",
+      "Number": 8,
+      "Odds": "5.7",
+      "Jockey": "津村"
+    },
+    {
+      "Name": "テリオスララ",
+      "Kinryo": "54.0",
+      "Number": 9,
+      "Odds": "19.7",
+      "Jockey": "ゴンサルベ"
+    },
+    {
+      "Name": "ホールネス",
+      "Kinryo": "55.0",
+      "Number": 10,
+      "Odds": "32.0",
+      "Jockey": "三浦"
+    },
+    {
+      "Name": "テレサ",
+      "Kinryo": "55.0",
+      "Number": 11,
+      "Odds": "14.9",
+      "Jockey": "戸崎圭"
+    },
+    {
+      "Name": "コガネノソラ",
+      "Kinryo": "56.5",
+      "Number": 12,
+      "Odds": "9.1",
+      "Jockey": "菊沢"
+    },
+    {
+      "Name": "ビップデイジー",
+      "Kinryo": "54.0",
+      "Number": 13,
+      "Odds": "25.0",
+      "Jockey": "西村淳"
+    },
+    {
+      "Name": "パラディレーヌ",
+      "Kinryo": "56.0",
+      "Number": 14,
+      "Odds": "11.9",
+      "Jockey": "原"
+    },
+    {
+      "Name": "ルージュソリテール",
+      "Kinryo": "55.0",
+      "Number": 15,
+      "Odds": "15.7",
+      "Jockey": "西塚"
+    },
+    {
+      "Name": "セントメモリーズ",
+      "Kinryo": "52.0",
+      "Number": 16,
+      "Odds": "162.1",
+      "Jockey": "木幡巧"
+    }
+  ],
+  "RaceDate": "6月21日(日)"
+}
